@@ -1,0 +1,6 @@
+# Ignorar datasets grandes
+data/*.csv
+
+# Archivos temporales
+__pycache__/
+.ipynb_checkpoints/
