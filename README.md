@@ -1,12 +1,11 @@
 # Análisis de COVID-19 en Colombia
 
-Proyecto de análisis de datos basado en registros oficiales de COVID-19 en Colombia.
-Incluye análisis exploratorio, análisis multivariado, segmentación poblacional y análisis de series temporales.
+Proyecto de análisis de datos basado en registros oficiales de COVID-19 en Colombia. Incluye análisis exploratorio, análisis multivariado, segmentación poblacional y análisis de series temporales.
 
 ## Dataset
-- Fuente: Registros oficiales de casos COVID-19
-- Período analizado: 2020 – 2024
-- Total de registros: +6.3 millones
+- **Fuente:** Registros oficiales de casos COVID-19
+- **Período analizado:** 2020 – 2024
+- **Total de registros:** +6.3 millones
 
 ## Contenido del análisis
 - Limpieza y preparación de datos
@@ -23,6 +22,12 @@ Incluye análisis exploratorio, análisis multivariado, segmentación poblaciona
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
+
+## Historial de actualizaciones
+**Última actualización:** 6 de febrero de 2026
+- Mejoras en el código y optimización
+- Actualización de rutas de archivos
+- Sincronización con repositorio
 
 ## Autor
 Luis Felipe Premerl Rodríguez
